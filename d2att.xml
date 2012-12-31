@@ -101,5 +101,5 @@
   <project path="device/samsung/d2att" name="device_samsung_d2att" remote="chaosagent" revision="jb" />
   <project path="device/samsung/d2-common" name="android_device_samsung_d2-common" remote="chaosagent" revision="ics" />
   <project path="device/samsung/msm8960-common" name="android_device_samsung_msm8960-common" remote="chaosagent" revision="ics" />
-  <project path="device/samsung/qcom-common" name="device_samsung_qcom-common" remote="chaosagent" revision="ics" />
+  <project path="device/samsung/qcom-common" name="device_samsung_qcom-common" remote="chaosagent" revision="jb" />
 </manifest>
