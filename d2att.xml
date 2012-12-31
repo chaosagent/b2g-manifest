@@ -96,6 +96,7 @@
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/vold" name="platform/system/vold" />
+  <project path="external/skia" name="platform/external/skia" />
 
   <!-- d2att things -->
   <project path="device/samsung/d2att" name="device_samsung_d2att" remote="chaosagent" revision="jb" />
